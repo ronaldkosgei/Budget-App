@@ -1,0 +1,646 @@
+[
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_ic_person.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/ic_person.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_faq.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_faq.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_bg_rounded_input_field.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/bg_rounded_input_field.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_ic_mastercard.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/ic_mastercard.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_ic_baseline_notifications_active_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/ic_baseline_notifications_active_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_ic_person.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/ic_person.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_round_arrow_forward_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/round_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_retrieve_layout.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/retrieve_layout.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_choose_spending.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_choose_spending.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_round_arrow_forward_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/round_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_men.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/men.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_ic_more.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/ic_more.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_contactus.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/contactus.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_app_name.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/app_name.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_month.jpg.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/month.jpg"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_spending.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_spending.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_round_arrow_forward_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/round_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_education.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_education.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_charity.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_charity.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_top_background1.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/top_background1.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_account.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_account.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_input_layout.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/input_layout.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_appicon.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/appicon.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_btn1.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/btn1.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_ic_debit.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/ic_debit.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_tip.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_tip.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_ic_debit.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/ic_debit.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_color_name.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_color_name.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_round_arrow_forward_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/round_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_budget.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/budget.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_ic_mastercard.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/ic_mastercard.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_today_spending.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_today_spending.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_ic_mastercard.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/ic_mastercard.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/font_inter_bold.ttf.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/font/inter_bold.ttf"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_today.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_today.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_budget.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_budget.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_sms.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_sms.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_entertainment.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_entertainment.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_faq.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_faq.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_border_black.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/border_black.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_choose_analytic.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_choose_analytic.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_category_weekbg.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/category_weekbg.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_round_arrow_forward_24.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/round_arrow_forward_24.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_food.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_food.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_splash.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_shareicon.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/shareicon.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/anim_top_animation.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/anim/top_animation.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_weekly_analytics.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_weekly_analytics.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/font_inter_regular.ttf.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_bottom_sheet_dialog_layout.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/bottom_sheet_dialog_layout.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_btn3.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/btn3.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_add.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_add.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/font_inter_medium.ttf.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/raw_splash.json.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/raw/splash.json"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_ic_personalcare.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/ic_personalcare.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_ic_person.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/ic_person.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_green_app_name.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/green_app_name.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_round_arrow_forward_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/round_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_monthly_analytics.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_monthly_analytics.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_ic_person.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/ic_person.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_ic_personalcare.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/ic_personalcare.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_ic_more.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/ic_more.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_ic_debit.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/ic_debit.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_red.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/red.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_visitus.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/visitus.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/menu_menu.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/menu/menu.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_ic_more.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/ic_more.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_banner_background.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/banner_background.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_women.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/women.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_round_arrow_forward_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/round_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_ic_baseline_notifications_active_24.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/ic_baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_history.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/menu_main.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/menu/main.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_budget2.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_budget2.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_other.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_other.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_white_menu_background.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/white_menu_background.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_ic_baseline_notifications_active_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/ic_baseline_notifications_active_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/ic_person.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_green.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/green.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_shirt.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_shirt.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_ic_baseline_notifications_active_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/ic_baseline_notifications_active_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_ic_more.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/ic_more.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_month.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_month.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_week_spending.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_week_spending.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_week.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_week.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_ic_personalcare.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/ic_personalcare.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_budget.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_budget.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_mainactivitybg.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/mainactivitybg.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_category_monthbg.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/category_monthbg.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_login.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_ic_baseline_notifications_active_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/ic_baseline_notifications_active_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_analytics.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_analytics.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_ic_more.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/ic_more.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_ic_mastercard.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/ic_mastercard.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_ic_personalcare.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/ic_personalcare.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_week.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/week.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_edittext_background.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_btn4.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/btn4.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_category_todaybg.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/category_todaybg.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_roundarrowimg.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/roundarrowimg.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_ic_personalcare.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/ic_personalcare.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_personal.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_personal.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_nav.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/nav.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_row.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/row.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_ic_personalcare.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/ic_personalcare.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_btn2.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/btn2.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_ic_mastercard.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/ic_mastercard.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_ic_debit.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/ic_debit.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_ic_debit.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/ic_debit.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_ic_baseline_notifications_active_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/ic_baseline_notifications_active_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_transport.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_transport.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_ic_mastercard.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/ic_mastercard.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_ic_debit.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/ic_debit.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_ic_more.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/ic_more.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_update_layout.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/update_layout.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_daily_analytics.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_daily_analytics.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-mdpi_ic_person.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_ic_personalcare.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/ic_personalcare.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_today.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/today.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-anydpi-v21_ic_more.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-anydpi-v21/ic_more.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/anim_bottom_animation.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/anim/bottom_animation.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_brown.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/brown.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_history.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_history.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_house.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_house.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xhdpi_ic_mastercard.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xhdpi/ic_mastercard.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxxhdpi_ic_baseline_notifications_active_24.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxxhdpi/ic_baseline_notifications_active_24.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-hdpi_ic_debit.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-hdpi/ic_debit.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_ic_health.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/ic_health.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/font_inter_light.ttf.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/font/inter_light.ttf"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_borders.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/borders.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/layout_activity_signup.xml.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/font_inter_semibold.ttf.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-ldpi_ic_person.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-ldpi/ic_person.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_icemail.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/icemail.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable_top_background2.png.flat",
+        "source": "com.myprojects.expense_tracking.app-main-45:/drawable/top_background2.png"
+    },
+    {
+        "merged": "com.myprojects.expense_tracking.app-debug-43:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.myprojects.expense_tracking.app-pngs-39:/drawable-xxhdpi/ic_launcher_background.png"
+    }
+]

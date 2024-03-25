@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://expense-tracking-3cb75-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">98865415545</string>
+    <string name="google_api_key" translatable="false">AIzaSyBN3KSq44E8C5oUr2k2iUxnFLF4P4J7xi8</string>
+    <string name="google_app_id" translatable="false">1:98865415545:android:0dcb0691679f8e9f515ba8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBN3KSq44E8C5oUr2k2iUxnFLF4P4J7xi8</string>
+    <string name="google_storage_bucket" translatable="false">expense-tracking-3cb75.appspot.com</string>
+    <string name="project_id" translatable="false">expense-tracking-3cb75</string>
+</resources>

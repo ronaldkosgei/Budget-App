@@ -1,0 +1,7 @@
+com.myprojects.apnamoney.test.app-jetified-core-1.5.0-0 C:\Users\kosge\.gradle\caches\transforms-3\1f583a63718d0f3052692a954febef83\transformed\jetified-core-1.5.0\res
+com.myprojects.apnamoney.test.app-jetified-annotation-experimental-1.1.0-1 C:\Users\kosge\.gradle\caches\transforms-3\9b16d397a92f1f380f57d7f18967cc45\transformed\jetified-annotation-experimental-1.1.0\res
+com.myprojects.apnamoney.test.app-androidTest-2 C:\Users\kosge\Desktop\wretrytyiuoo\ApnaMoney-main\app\build\generated\res\resValues\androidTest\debug
+com.myprojects.apnamoney.test.app-androidTest-3 C:\Users\kosge\Desktop\wretrytyiuoo\ApnaMoney-main\app\build\generated\res\rs\androidTest\debug
+com.myprojects.apnamoney.test.app-mergeDebugAndroidTestResources-4 C:\Users\kosge\Desktop\wretrytyiuoo\ApnaMoney-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.myprojects.apnamoney.test.app-mergeDebugAndroidTestResources-5 C:\Users\kosge\Desktop\wretrytyiuoo\ApnaMoney-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.myprojects.apnamoney.test.app-merged_res-6 C:\Users\kosge\Desktop\wretrytyiuoo\ApnaMoney-main\app\build\intermediates\merged_res\debugAndroidTest

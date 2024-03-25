@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "98865415545",
+    "firebase_url": "https://expense-tracking-3cb75-default-rtdb.firebaseio.com",
+    "project_id": "expense-tracking-3cb75",
+    "storage_bucket": "expense-tracking-3cb75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98865415545:android:0dcb0691679f8e9f515ba8",
+        "android_client_info": {
+          "package_name": "com.myprojects.expense_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3KSq44E8C5oUr2k2iUxnFLF4P4J7xi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98865415545:android:f98caa11c9f18890515ba8",
+        "android_client_info": {
+          "package_name": "com.myprojects.expensetracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3KSq44E8C5oUr2k2iUxnFLF4P4J7xi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
